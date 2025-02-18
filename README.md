@@ -17,5 +17,5 @@ Este projeto consiste em uma **página de receita** desenvolvida em **HTML** e *
 ---
 
 <p align="center">
-  Desenvolvido com 💛 por <strong>@mayasrl</strong>.
+  Desenvolvido durante uma aula do curso Fullstack da <strong>Rocketseat</strong> com 💛 por <strong>@mayasrl</strong>.
 </p>
