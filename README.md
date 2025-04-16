@@ -1,4 +1,4 @@
-# Página de Receita
+# Cupcake de Café com Chantilly
 
 Este projeto consiste em uma **página de receita** desenvolvida em **HTML** e **CSS**, apresentando uma receita de **cupcake de café com chantilly**. Foi concebido para praticar conceitos de **estruturação de conteúdo** e **estilização** de páginas web, além de demonstrar noções de semântica em HTML e boas práticas de layout em CSS.
 
